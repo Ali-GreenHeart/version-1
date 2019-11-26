@@ -1,0 +1,7 @@
+@import "reset";
+/** if you have separate file for variables and mixins, or fonts - import it here **/
+@import "header";
+@import "content";
+
+/** MEDIA **/
+@import "media/all-media";
