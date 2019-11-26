@@ -1,4 +1,3 @@
 console.log('gogi');
-console.log('gogi');
-console.log('gogi');
-console.log('gogi');
+
+alert("HI everyone");
